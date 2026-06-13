@@ -50,7 +50,7 @@ export default function App() {
             </p>
             <div className="hero-actions">
               <a className="button button--primary" href="#projects">View recent work</a>
-              <a className="button button--ghost" href="/resume.pdf" download>Download resume</a>
+              <a className="button button--ghost" href="/Tanishq_resume.pdf" download>Download resume</a>
               <a className="button button--ghost" href="mailto:tanishq.25.ts@gmail.com">Email me</a>
             </div>
           </div>
